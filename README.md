@@ -1,6 +1,6 @@
 # FireArrow
 FireArrow - плагин для Bukkit серверов, который позволит поджигать блоки, используя лук, зачарованный на воспламенение.
-Версия: v2.0.0
+Версия: v3.0.0
 Особенности:
 1.Относительная простота самого плагина.
 2.Легкость в использовании.
@@ -8,4 +8,5 @@ FireArrow - плагин для Bukkit серверов, который позв
 Это проверялось на версиях:
 1.6.4
 1.7.9
-Вы можете посмотреть тему на rubukkit.org: http://www.rubukkit.org/threads/mech-firearrow-v2-0-podzhigaem-bloki-1-6-4-r2-0.98333/
+Вы можете посмотреть тему на rubukkit.org:
+http://www.rubukkit.org/threads/mech-firearrow-v2-0-podzhigaem-bloki-1-6-4-r2-0.98333/
